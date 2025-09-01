@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "app-example",
-    "slug": "app-example",
+    "name": "prodev-mobile-setup",
+    "slug": "prodev-mobile-setup",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "appexample",
+    "scheme": "prodevmobilesetup",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
