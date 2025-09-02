@@ -65,7 +65,7 @@ export default function Index() {
   return (
     <SafeAreaProvider>
       <SafeAreaView  style={{ flex: 1 }}>
-        <ImageBackground source={require("@assets/images/background-image.png")}
+        <ImageBackground source={require("@/assets/images/background-image.png")}
         style={styles.background}
         resizeMode="cover"
         >
